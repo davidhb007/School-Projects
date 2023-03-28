@@ -1,5 +1,5 @@
 This is a program written in C language to simulate exclusive access to a hypothetical DataBase by the
-use of mutexes andthreads. The program uses input redirection in order to read from an input file
+use of mutexes and threads. The program uses input redirection in order to read from an input file
 containing informationabout virtual users (each line is a new user) separated by groups. The virtual
 DB is composed of different positions that can only be accessed by a user at a time The format of 
 the input file is as follows:
